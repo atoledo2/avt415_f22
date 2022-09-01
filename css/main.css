@@ -5,7 +5,7 @@ html {font-size: 100%;} /*16px*/
 
 body {
   background-color: #568A67;
-  color: #24272D;
+  color: white;
   margin: 0;
   padding: 50px;
   line-height: 1.75;
@@ -30,5 +30,5 @@ dt {
 	font-weight: bold;
 }
 a{
-	color: #FEFAE0;
+	color: #E5625E;
 }
