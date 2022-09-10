@@ -11,6 +11,15 @@ body {
   line-height: 1.75;
   font-family: 'Quicksand', sans-serif;
 }
+.column{
+	float: left;
+	width: 50%;
+}
+.row:after{
+	content: "";
+	display: table;
+	clear: both;
+}
 h1 {
 
   font-size: 5em;
