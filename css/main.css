@@ -4,8 +4,8 @@
 html {font-size: 100%;} /*16px*/
 
 body {
-  background-color: #38563C;
-color: #DAD7CD;
+  background-color: #565784;
+  color: #EBEBEB;
   margin: 0;
   padding: 50px;
   line-height: 1.75;
@@ -18,11 +18,11 @@ h1 {
 
 h2 {
 	font-size: 3em;
-	color: #D78D33;
+	color: #EF767A;
 }
 
 h3{
-	color: #D78D33;
+	color: #EF767A;
 }
 
 h4 {
@@ -31,7 +31,7 @@ h4 {
 }
 
 p{
-	color:#DAD7CD;
+	color:#EF767A;
 }
 
 dt {
@@ -40,4 +40,7 @@ dt {
 }
 a{
 	color: white;
+}
+a:hover{
+	color: #FAA916;
 }
