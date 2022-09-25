@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	margin: 62px 139px;
+	font-family: 'Rota';
+}
+
+h1{
+	font-family:'Crimson Pro';
+	font-size: 2em;
+	font: 'bold roman';
+}
+
+h3{
+	font-family: 'Crimson Pro';
+	font-size: 1.5em;
+	font:normal;
+}
+
+h4{
+	font-size: 1.2em;
+}
+
+p{
+	padding-top: 3px;
+	line-height: 1.5;
+}
+
+div{
+	padding-bottom: 15px;
+}
+
+.summary{
+	font-style: italic;
+}
