@@ -1,6 +1,19 @@
 @charset "utf-8";
 /* CSS Document */
 
+@font-face{
+	font-family: 'Rota';
+    src: url("rota-medium.woff")format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+	font-family: 'Crimson Pro';
+    src: url("crimsonpro.woff")format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body{
 	margin: 62px 139px;
 	font-family: 'Rota';
